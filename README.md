@@ -1,4 +1,4 @@
-# Form NOme completo e idade 👋
+# Form Nome completo e idade 👋
 
 Projeto [Expo](https://expo.dev) criado com [`create-expo-app`](https://www.npmjs.com/package/create-expo-app) para estudar React Native
 
